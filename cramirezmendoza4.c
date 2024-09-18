@@ -47,20 +47,20 @@ int main(void)
 	}
 	
 	if(z > 0) {
-        printf("You entered a positive float\n");
+        printf("You entered a positive float \n");
    	 }
    	 else if(z < 0) {
-        printf("You entered a negative float\n");
+        printf("You entered a negative float \n");
    	 }
    	 else {
-        printf("You entered zero\n");
+        printf("You entered zero \n");
    	 }
 	
 	 if(a == 'a') {
-        printf("You entered 'a'\n");
+        printf("You entered 'a' \n");
    	 }
    	 else {
-       	 	printf("You entered a different character\n");
+       	 	printf("You entered a different character \n");
    	 }
 	 
 	return EXIT_SUCCESS;
