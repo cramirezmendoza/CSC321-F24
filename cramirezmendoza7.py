@@ -1,3 +1,6 @@
+# Camila Ramirez
+# CSC 321 - lab 7
+
 x = 6
 y = 5.5
 z = "California"
